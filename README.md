@@ -1,4 +1,4 @@
-# MLP Hyperparameter Experimentation Project
+# Keras MLP Playground
 
 This project is designed for experimenting with hyperparameters in Multi-Layer Perceptron (MLP) neural networks. It provides a structured way to train models with different configurations and automatically tracks all experiments, making it easy to compare results and analyze the impact of various hyperparameter choices.
 
